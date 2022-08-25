@@ -14,4 +14,4 @@ In the MAIN.ipynb as a part of data understanding and cleaning, we remove "G_sol
 
 2. How final prediction performance drops if 'SASA' is dropped because of its high correlation along with "G_sol" and "volume", in G_sol, volume and SASA Removed.ipynb.
 
-We finally conclude that G_sol and volume should be the only features that should be dropped and SASA even though it has some high correlation should still be retained in the dataset because it seems to carry some necessary independent information for the models.
+We finally conclude that "G_sol" and "volume" should be the only features that should be dropped. As for "SASA", even though it has some high correlation should still be retained in the dataset because it seems to carry some necessary independent information for the models.
