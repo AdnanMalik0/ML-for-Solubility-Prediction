@@ -8,7 +8,7 @@ All-Features.ipynb = This notebook shows a special case where no features were d
 
 G_sol, volume and SASA Removed.ipynb = This notebook contains a special case where features "G_sol", "volume" and "SASA" were removed.
 
-In the MAIN.ipynb as a part of data understanding and cleaning, we remove "G_sol" and "volume" because of their very high correlation. The other two notebooks are kept to answer two important questions:
+In the MAIN.ipynb as a part of data understanding and cleaning, we remove "G_sol" and "volume" because of their very high correlation with other features. The other two notebooks are kept to show the following:
 
 1. How final prediction performance drops if these features are not dropped, in All-Features.ipynb
 
