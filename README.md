@@ -42,13 +42,13 @@ This dissertation aims to present work from the side of developing and employing
 
 • Gradient boosting
 
-4. Kernel-based approaches
+**4. Kernel-based approaches**
 
 • Non-linear Support Vector Regression
 
 • Gaussian Processes
 
-5. Artificial Neural Networks approach
+**5. Artificial Neural Networks approach**
 
 • Multi-layer perceptron algorithm.
 
