@@ -3,14 +3,14 @@
 This Repository contains the Dissertation on the topic of "Machine Learning for Solubility Prediction of Chemical Compounds". 
 
 ## Abstract 
-Solubility Prediction of chemical compounds using Machine Learning has been an area of great discussion and research for the last few decades. It remains a very challenging task because measuring Solubility is a complex procedure, and the measured Solubility data is always ex- pected to have some experimental errors. Finding a suitable Machine Learning algorithm has also been challenging, considering the unavoidable errors in experimental data and lack of rele- vant data.
+Solubility Prediction of chemical compounds using Machine Learning has been an area of great discussion and research for the last few decades. It remains a very challenging task because measuring Solubility is a complex procedure, and the measured Solubility data is always expected to have some experimental errors. Finding a suitable Machine Learning algorithm has also been challenging, considering the unavoidable errors in experimental data and lack of relevant data.
 
-In this research, we considered features that are most relevant for measuring the Solubility of a chemical compound. We built many conceptually different Machine Learning algorithms and focused on finding the most pertinent algorithms for the job. We also devise a way to acknowledge unavoidable errors in experimental data when assessing these models. Finally, we combined the predictions of the top-performing Machine Learning models for a final prediction. This research shows how better predictions are possible if 1. Only relevant data is considered 2. Models are assessed considering the unavoidable experimental errors, and 3. A consen- sus of best-performing models is taken for the final prediction. **Dissertation.pdf** will cover the theory and results used.  
+In this research, we considered features that are most relevant for measuring the Solubility of a chemical compound. We built many conceptually different Machine Learning algorithms and focused on finding the most pertinent algorithms for the job. We also devise a way to acknowledge unavoidable errors in experimental data when assessing these models. Finally, we combined the predictions of the top-performing Machine Learning models for a final prediction. This research shows how better predictions are possible if 1. Only relevant data is considered 2. Models are assessed considering the unavoidable experimental errors, and 3. A consensus of best-performing models is taken for the final prediction. The file **"Dissertation.pdf"** will cover the theory and results of the project.  
 ## Machine Learning methods used
 
 This dissertation aims to present work from the side of developing and employing relevant machine learning algorithms. We focus on building various models, aiming to cover most of the present-day machine algorithms. For this purpose, we divide our models into five different approaches, as can be seen below:
 
-1. Ordinary Linear Regression approaches
+**1. Ordinary Linear Regression approaches**
 
 • Ordinary Least Squares
 • Ridge Regression
