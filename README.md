@@ -1,6 +1,6 @@
 # ML-for-Solubility-Prediction
 
-## The files for the Dissertation work on 'Machine Learning for Solubility Prediction' are kept in this Repository.
+The files for the Dissertation work on 'Machine Learning for Solubility Prediction' are kept in this Repository.
 
 MAIN.ipynb = It is the notebook which contains the actual work that was done to get the outputs and results.
 
