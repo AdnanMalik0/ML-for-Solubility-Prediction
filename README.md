@@ -1,6 +1,6 @@
 # ML-for-Solubility-Prediction
 
-This Repository contains the Dissertation on the topic of "Machine Learning for Solubility Prediction of Chemical Compounds". 
+This Repository contains the Dissertation on the topic of **"Machine Learning for Solubility Prediction of Chemical Compounds"**. 
 
 ## Abstract 
 Solubility Prediction of chemical compounds using Machine Learning has been an area of great discussion and research for the last few decades. It remains a very challenging task because measuring Solubility is a complex procedure, and the measured Solubility data is always expected to have some experimental errors. Finding a suitable Machine Learning algorithm has also been challenging, considering the unavoidable errors in experimental data and lack of relevant data.
