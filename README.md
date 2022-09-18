@@ -13,30 +13,39 @@ This dissertation aims to present work from the side of developing and employing
 **1. Ordinary Linear Regression approaches**
 
 • Ordinary Least Squares
+
 • Ridge Regression
+
 • Lasso Regression
+
 • Support Vector Regression
 
-2. Latent-variable approaches
+**2. Latent-variable approaches**
 
 • Principle components regression
+
 • Partial least squares
 
-3. Ensemble Learning approaches
+**3. Ensemble Learning approaches**
 
-a. Bagging algorithms
+**_a. Bagging algorithms_**
 
 • Bagging of Decision trees
+
 • Random forest
+
 • Extremely randomised trees 
 
-b. Boosting algorithms
+**_b. Boosting algorithms_**
 
-• Adaptive boosting • Gradient boosting
+• Adaptive boosting 
+
+• Gradient boosting
 
 4. Kernel-based approaches
 
 • Non-linear Support Vector Regression
+
 • Gaussian Processes
 
 5. Artificial Neural Networks approach
